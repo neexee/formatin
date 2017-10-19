@@ -68,6 +68,12 @@
 * Посчитать число запущённых вами процессов с помощью `ps`, `grep` и `wc -l`.
 * С помощью `ps`, `awk`, `sort` и `uniq` найти всех уникальных пользователей в системе, от имени которых запущен хотя бы один процесс.
 
+## Всё есть файл
+* `/proc`. `/proc/uptime`, `/proc/cpuinfo` и `/proc/{pid}/mem`.
+* `/dev`. `/dev/sd*` и `/dev/urandom`.
+* `/etc`. `/etc/hosts`, `/etc/passwd`, `/etc/fstab` и `/etc/cron.d`.
+* `/tmp`. tmpfs
+
 ## Окружение
 * Программы `which` и `whereis`.
 * Программа `gcc`.
