@@ -70,7 +70,7 @@
 
 ## Всё есть файл
 * `/proc`. `/proc/uptime`, `/proc/cpuinfo` и `/proc/{pid}/mem`.
-* `/dev`. `/dev/sd*` и `/dev/urandom`.
+* `/dev`. `/dev/sd*`, `/dev/urandom` и `/dev/null`.
 * `/etc`. `/etc/hosts`, `/etc/passwd`, `/etc/fstab` и `/etc/cron.d`.
 * `/tmp`. tmpfs
 
