@@ -77,7 +77,7 @@
 * `Structure and Interpretation of Computer Programs` – скорее всего, лучшая книга по программированию  **вообще**. В ней очень много кода, она сложная. Зато если всё понять, просветление обеспечено.
 * `Introduction to Algorithms` и `The Art of Computer Programming` суровые книги об алгоритмических основах программирования.
 * У университета мало рычагов для мотивации студентов, поэтому студенты должны мотивировать себя сами.
-  При недостатке мотивации предлагаю читать эти две:
+  При недостатке мотивации предлагаю читать эти две книги:
   * `Pragmatic Thinking and Learning: Refactor Your Wetware`
   * `The Passionate Programmer: Creating a Remarkable Career in Software Development`
 
