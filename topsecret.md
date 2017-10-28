@@ -92,6 +92,8 @@
 
 * Остальное нужно выбирать на свой вкус.
 
+Смотри также [советы](https://www.joelonsoftware.com/2005/01/02/advice-for-computer-science-college-students/) Джоэла Спольски ([перевод сомнительного качества](http://russian.joelonsoftware.com/Articles/AdviceforComputerScienceC.html)).
+
 
 ### В университете почему-то явно не говорят о научном методе
 Смотри [научный метод](https://ru.wikipedia.org/wiki/%D0%9D%D0%B0%D1%83%D1%87%D0%BD%D1%8B%D0%B9_%D0%BC%D0%B5%D1%82%D0%BE%D0%B4).
